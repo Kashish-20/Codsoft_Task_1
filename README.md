@@ -1,4 +1,4 @@
-#Movie Genre Classification.
+# Movie Genre Classification.
 
 This project aims to develop a machine learning model that predicts the genre of a movie based on its plot summary or other textual information. Leveraging natural language processing (NLP) techniques, we convert text data into numerical representations using methods like TF-IDF or word embeddings. These transformed features are then used to train classifiers such as Naive Bayes, Logistic Regression, or Support Vector Machines (SVM) to accurately categorize movies into genres.
 
