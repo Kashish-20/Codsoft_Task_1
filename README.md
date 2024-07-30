@@ -21,3 +21,5 @@ Model Testing: Test the trained models on new samples to evaluate their performa
 Model Evaluation: Evaluate the performance of each model using metrics such as accuracy, precision, recall, and F1-score.
 
 Model Selection: Select the best-performing model based on the evaluation results for predicting movie genres.
+
+Dataset link:- https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb/code
